@@ -1,0 +1,37 @@
+body{
+  background-color: gray;
+}
+
+div>h1{
+  
+  text-align: center;
+}
+#numeroum{
+  width: 100%;
+  margin-bottom: 20px;
+  
+}
+#ope{
+  width: 100%;
+  margin-bottom: 20px;
+}
+#numDois{
+  width: 100%;
+  margin-bottom: 15px;
+}
+.cal{
+  border: 3px solid rgb(0, 0, 0);
+  padding: 10px;
+  border-radius: 20px;
+}
+.hr1{
+  margin-bottom: 30px;
+}
+
+.hr2{
+  margin-bottom: 35px;
+  }
+
+hr{
+  border-color: black;
+}
